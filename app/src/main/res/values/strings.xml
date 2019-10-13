@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MobileJournal</string>
+    <string name="journal_entry_string">Journal Entry</string>
+    <string name="take_picture_button">TakePicture</string>
+    <string name="submit_entry_string">Submit Entry</string>
+</resources>

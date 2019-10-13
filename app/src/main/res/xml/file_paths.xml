@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML xmlns:android="http://schemas.android.com/apk/res/android">
+    <paths>
+        <external-path name="my_images" path="Android/data/ict376.student.mobilejournal/files/Pictures" />
+    </paths>
+
+</XML>
